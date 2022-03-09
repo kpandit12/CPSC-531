@@ -4,9 +4,7 @@ CPSC 531
 Project Bigchemicals
 
 
-Group members:
-1- Ketaki Pandit:           CWID:  886491026
-2- Vishvesh Dumbre:     	CWID : 885954156
+Author: Ketaki Pandit       
 
 
 Our submission folder contains the README, and a project folder. Inside project folder, ie. bigchemicals, there are four module folders namely, employee, sensor, sensor_repair_log and tracking_log. Each folder contains four php files. There is one sql file named bigchemicals.sql which contains all DDL commands. There is one config file which has information regarding hosting the project with wampserver and one index file.
