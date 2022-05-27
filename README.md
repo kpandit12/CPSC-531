@@ -4,7 +4,7 @@ CPSC 531
 Project Bigchemicals
 
 
-Author: Ketaki Pandit       
+Author: Ketaki Pandit, Vishvesh Dumbre      
 
 Inside project folder, ie. bigchemicals, there are four module folders namely, employee, sensor, sensor_repair_log and tracking_log. Each folder contains four php files. There is one sql file named bigchemicals.sql which contains all DDL commands. There is one config file which has information regarding hosting the project with wampserver and one index file.
 
